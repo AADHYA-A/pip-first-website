@@ -8,7 +8,7 @@
 //                     Row Level Security in the schema limits what it can do).
 // Never paste the "service_role" key here.
 window.PIP_CONFIG = {
-  SUPABASE_URL: 'https://cgtqmfirtjnnujzalhkx.supabase.co/rest/v1/',
+  SUPABASE_URL: 'https://cgtqmfirtjnnujzalhkx.supabase.co',
   SUPABASE_ANON_KEY: 'sb_publishable_C6_m8dNto37QsEDx4juqyg_8Li5FkF0',
 
   // Official Pip art (optional). Download the asset pack from the haX.baby brief, put the
